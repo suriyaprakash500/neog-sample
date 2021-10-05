@@ -1,3 +1,4 @@
 # neog-sample
  Tutorial sample file 
-personal portfolio in the making
+personal portfolio in the making.
+yes
